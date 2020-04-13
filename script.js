@@ -14,3 +14,6 @@ $("button").click(function(event) {
       event.preventDefault();
     $(event.target).closest("li").remove();
   });
+
+
+  
